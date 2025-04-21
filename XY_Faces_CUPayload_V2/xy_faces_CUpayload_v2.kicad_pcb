@@ -78,7 +78,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "Extras/NoCutout/")
+			(outputdirectory "FAB/mk1/")
 		)
 	)
 	(net 0 "")
@@ -48653,17 +48653,6 @@
 		(at 152.86 111.4 0)
 		(layer "F.SilkS")
 		(uuid "8f814834-7799-4470-b7ac-fe681783da6f")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "<--"
-		(at 166.41 116.76 0)
-		(layer "F.SilkS")
-		(uuid "911261ef-f390-4b0b-be76-5688c2322bc6")
 		(effects
 			(font
 				(size 1 1)

@@ -510,10 +510,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "solar-panel-side+-Y.net",
-      "plot": "",
+      "plot": "FAB/mk1/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../../../Downloads/solar-panel-NoCutout.stl",
+      "step": "../../../../Downloads/mk1_panel_cutout.stl",
       "svg": "",
       "vrml": ""
     },
