@@ -1,0 +1,11 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U2";"MSOP-8-1EP_3x3mm_P0.65mm_EP1.5x1.8mm_ThermalVias";1;"MCP9808_DFN";;;
+2;"SC5,SC3,SC4,SC2,SC6,SC1";"KXOB101K08F-TR";6;"SM101K07TF";;;
+3;"TP1,TP2";"Test Pad";2;"TestPoint";;;
+4;"D3,D1,D2";"DO-214AC";3;"CDBA240LL-HF";;;
+5;"C2";"C_0805_2012Metric";1;"1uF";;;
+6;"U1";"XDCR_VEML7700-TT";1;"VEML7700";;;
+7;"D4";"LED_0603_1608Metric";1;"CQY99";;;
+8;"R1";"R_0603_1608Metric";1;"1k";;;
+9;"CN1";"CONN-SMD_5P-P1.25_HRS_DF13A-5P-1.25H";1;"DF13A-5P-1.25H(21)";;;
+10;"CN2";"CONN-SMD_DF13C-5P-1.25V-21";1;"DF13C-5P-1.25V(21)";;;

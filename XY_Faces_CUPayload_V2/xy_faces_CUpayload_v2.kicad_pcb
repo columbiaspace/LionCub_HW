@@ -3058,6 +3058,70 @@
 		)
 		(embedded_fonts no)
 	)
+	(footprint ""
+		(layer "F.Cu")
+		(uuid "22f7e8ae-fc9d-4e9b-ae34-281462236c21")
+		(at 177.025 116.25)
+		(property "Reference" "H1"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "61ae5887-2a53-4e0c-b678-8feee01100b0")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 9.8 7.2 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "015fe426-6711-49f0-87fc-71843ed5c9dc")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c2edcbcc-341a-42aa-a34b-936978bc5921")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9eeacba7-950c-47bb-92c5-eaa719f21327")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr exclude_from_bom)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 4 4)
+			(drill 2.875)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "cf769eca-8de9-46a9-891c-1ca3f2232556")
+		)
+		(embedded_fonts no)
+	)
 	(footprint "SolarPanelBoards:DO-214AC"
 		(layer "F.Cu")
 		(uuid "2d5ebe19-5d20-443b-ad58-ccc932168ade")
@@ -7669,6 +7733,134 @@
 				(xyz 0 0 0)
 			)
 		)
+	)
+	(footprint ""
+		(layer "F.Cu")
+		(uuid "6fb88a5f-0afc-4453-bba7-e8e2eaf70c80")
+		(at 109.65 98.25)
+		(property "Reference" "H1"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "78bcc763-a4ce-4f11-a0e6-addfa0436601")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 9.8 7.2 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "d4845eca-de8a-45fc-a79a-c10aaad14afa")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "569d7b76-0e44-4a73-ad60-7a19fb981941")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3237c764-b5ef-49fc-b3ea-4c7d8dc8ca2e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr exclude_from_bom)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 4 4)
+			(drill 2.875)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "c411bd45-613d-48b5-bbf3-c03532301a44")
+		)
+		(embedded_fonts no)
+	)
+	(footprint ""
+		(layer "F.Cu")
+		(uuid "7ea307f8-d5af-4bfc-aa1e-e8d98ffc5eb7")
+		(at 109.65 122.25)
+		(property "Reference" "H1"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "b9200f57-c10e-4427-b313-54dcb93f30cd")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 9.8 7.2 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "ebeb3856-49e2-4b3e-8d7c-4a1c49759093")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bea15efa-d22e-4bc1-b376-9bf7b7a06cd3")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cfd28a9c-a2c4-4b27-a89a-54dcfe480fa8")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr exclude_from_bom)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 4 4)
+			(drill 2.875)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "73da1e6e-0aa3-44c8-bd1d-c284a5a29c34")
+		)
+		(embedded_fonts no)
 	)
 	(footprint "LOGO"
 		(layer "F.Cu")
@@ -27983,6 +28175,70 @@
 			)
 		)
 	)
+	(footprint ""
+		(layer "F.Cu")
+		(uuid "e4d56c31-5ba6-47ed-a7ca-cfd6c425c724")
+		(at 109.65 110.25)
+		(property "Reference" "H1"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "182ccb3e-2736-4a18-a9e5-5fb0f99b4f15")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 9.8 7.2 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "6bab0e50-5553-4509-af23-c7afd71a7f9b")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "069b55d6-8b54-4e62-b39e-b9dbfac06f0d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "38fca27f-4bda-446a-bcc0-bcbb17dccb4e")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr exclude_from_bom)
+		(pad "1" thru_hole circle
+			(at 0 0)
+			(size 4 4)
+			(drill 2.875)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "36dfdba6-9478-416f-82a2-fc1209777e41")
+		)
+		(embedded_fonts no)
+	)
 	(footprint "Resistor_SMD:R_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "e566c028-a6be-4ab5-9045-1a7bf1db64fc")
@@ -48231,6 +48487,28 @@
 		(uuid "5b9ccbbb-35be-4618-9cd2-64f802c15a42")
 	)
 	(gr_circle
+		(center 109.65 98.25)
+		(end 111.0875 98.25)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "961ce2e3-0757-45cc-86f4-c3d9be403c21")
+	)
+	(gr_circle
+		(center 109.65 110.25)
+		(end 111.0875 110.25)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "a723c24b-e955-4e8d-b8c6-00ef606daab0")
+	)
+	(gr_circle
 		(center 139.5 147)
 		(end 142.125 147)
 		(stroke
@@ -48240,6 +48518,17 @@
 		(fill no)
 		(layer "Dwgs.User")
 		(uuid "abbade65-526f-40a2-a8a6-859d018b67b6")
+	)
+	(gr_circle
+		(center 109.65 122.25)
+		(end 111.0875 122.25)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "b67bb3e3-a2e4-481f-b035-96cb635e5cee")
 	)
 	(gr_circle
 		(center 149.5 76.6)
@@ -48482,17 +48771,6 @@
 		(layer "Edge.Cuts")
 		(uuid "7be91a20-b7c6-4f1c-88c6-fe4c86b6b6f4")
 	)
-	(gr_circle
-		(center 109.65 98.25)
-		(end 111.0875 98.25)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(fill no)
-		(layer "Edge.Cuts")
-		(uuid "961ce2e3-0757-45cc-86f4-c3d9be403c21")
-	)
 	(gr_arc
 		(start 146.85 147)
 		(mid 149.5 144.35)
@@ -48503,28 +48781,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "9a5fc662-de96-494c-85e2-afc354f1373a")
-	)
-	(gr_circle
-		(center 109.65 110.25)
-		(end 111.0875 110.25)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(fill no)
-		(layer "Edge.Cuts")
-		(uuid "a723c24b-e955-4e8d-b8c6-00ef606daab0")
-	)
-	(gr_circle
-		(center 109.65 122.25)
-		(end 111.0875 122.25)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(fill no)
-		(layer "Edge.Cuts")
-		(uuid "b67bb3e3-a2e4-481f-b035-96cb635e5cee")
 	)
 	(gr_arc
 		(start 152.15 153)
@@ -48546,17 +48802,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "bf3f99d6-5ca1-4af4-a6d3-6be829a3d8a9")
-	)
-	(gr_circle
-		(center 177.025 116.25)
-		(end 178.4625 116.25)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(fill no)
-		(layer "Edge.Cuts")
-		(uuid "c869b707-e5bb-4da9-9a76-aa6a3d2fdd9c")
 	)
 	(gr_line
 		(start 133.075 117.2625)
@@ -48589,6 +48834,17 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "f9e3efa2-5cd5-44ab-bd81-425c38e618f7")
+	)
+	(gr_circle
+		(center 177.025 116.25)
+		(end 178.4625 116.25)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "c869b707-e5bb-4da9-9a76-aa6a3d2fdd9c")
 	)
 	(gr_text "The PROVES Kit V3"
 		(at 134.3 91.1 0)
