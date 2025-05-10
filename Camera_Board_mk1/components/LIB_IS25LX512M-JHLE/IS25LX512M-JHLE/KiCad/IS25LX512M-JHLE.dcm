@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IS25LX512M-JHLE
+D NOR Flash 512Mb, Octal Flash, 3V, 240ball TFBGA, RoHS, IT
+K
+F https://www.mouser.com/pdfDocs/Octal-Memory.pdf
+$ENDCMP
+#
+#End Doc Library

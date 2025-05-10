@@ -1,0 +1,308 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "71433b47-5da5-4076-8337-db24de24111d")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 20.32 25.4)
+		(size 38.1 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "19163738-78a7-49a1-9ccf-ca00bee352cf")
+		(property "Sheetname" "Camera Connections"
+			(at 20.32 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "camera.kicad_sch"
+			(at 20.32 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "payload_board"
+				(path "/71433b47-5da5-4076-8337-db24de24111d"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 165.1 25.4)
+		(size 36.83 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5f137ca1-156b-44f2-9aab-8057626f0e3f")
+		(property "Sheetname" "Power"
+			(at 165.1 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 165.1 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "payload_board"
+				(path "/71433b47-5da5-4076-8337-db24de24111d"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 118.11 73.66)
+		(size 38.1 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c2b48b5e-7e3e-4ae7-a166-35db00a9eadc")
+		(property "Sheetname" "Watchdog"
+			(at 118.11 72.9484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Watchdog.kicad_sch"
+			(at 118.11 112.3446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "payload_board"
+				(path "/71433b47-5da5-4076-8337-db24de24111d"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 118.11 25.4)
+		(size 36.83 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c9420d13-2143-48ae-919e-fe4c6a914155")
+		(property "Sheetname" "USB"
+			(at 118.11 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "usb_power.kicad_sch"
+			(at 118.11 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "payload_board"
+				(path "/71433b47-5da5-4076-8337-db24de24111d"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 69.85 73.66)
+		(size 38.1 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d39326c5-0015-43e3-8b55-220854b7d8fc")
+		(property "Sheetname" "Memory"
+			(at 69.85 72.9484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Memory.kicad_sch"
+			(at 69.85 112.3446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "payload_board"
+				(path "/71433b47-5da5-4076-8337-db24de24111d"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 69.85 25.4)
+		(size 38.1 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "da7ba49c-3412-4550-983d-299a2a1d5655")
+		(property "Sheetname" "GPIO"
+			(at 69.85 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "main_board.kicad_sch"
+			(at 69.85 64.0846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "payload_board"
+				(path "/71433b47-5da5-4076-8337-db24de24111d"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 20.32 73.66)
+		(size 38.1 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f17ec2ce-9e65-4288-9122-23a6cdb660d3")
+		(property "Sheetname" "Connectors"
+			(at 20.32 72.9484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "connectors.kicad_sch"
+			(at 20.32 112.3446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "payload_board"
+				(path "/71433b47-5da5-4076-8337-db24de24111d"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

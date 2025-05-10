@@ -1,0 +1,5 @@
+(version 1)
+(rule "skew matching CSI"
+	(constraint length (min 1652mil) (max 1662mil))
+	(condition "A.NetClass == 'CSI'")
+	(severity error))

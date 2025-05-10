@@ -1,0 +1,9 @@
+Manufacturer=Integrated Silicon Solution Inc.
+PartNumber=IS25LX512M-JHLE
+PartCategory=Integrated Circuit
+PackageCategory=BGA
+PinCount=24
+Version=1.1
+Released=2025-04-28 09:48:43
+Downloaded=2025-04-28 16:01:49
+3D=Y

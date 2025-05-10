@@ -1,0 +1,13 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MIMXRT1052CVJ5B")(type "KiCad")(uri "${KIPRJMOD}/components/MIMXRT1052CVJ5B.kicad_sym")(options "")(descr "1052 MicroProcessor"))
+  (lib (name "525592070")(type "KiCad")(uri "${KIPRJMOD}/components/CON_525592070_MOL.kicad_sym")(options "")(descr "20-pin camera connector"))
+  (lib (name "2171790001")(type "KiCad")(uri "${KIPRJMOD}/components/2171790001.kicad_sym")(options "")(descr "Molex USB-C"))
+  (lib (name "LM3940")(type "KiCad")(uri "${KIPRJMOD}/components/LM3940.kicad_sym")(options "")(descr "5V to 3.3V LDO"))
+  (lib (name "ADP122AUJZ-3.0-R7")(type "KiCad")(uri "${KIPRJMOD}/components/ADP122AUJZ-3.0-R7.kicad_sym")(options "")(descr "5V to 3V LDO"))
+  (lib (name "Custom_Memory")(type "KiCad")(uri "${KIPRJMOD}/Custom_Memory.kicad_sym")(options "")(descr ""))
+  (lib (name "Flash")(type "KiCad")(uri "${KIPRJMOD}/components/LIB_IS25LX512M-JHLE/IS25LX512M-JHLE/KiCad/IS25LX512M-JHLE.kicad_sym")(options "")(descr ""))
+  (lib (name "MT84LC")(type "KiCad")(uri "${KIPRJMOD}/components/MT48LC16M16A2B4-6A_IT_G_TR.kicad_sym")(options "")(descr ""))
+  (lib (name "Au_Molex")(type "KiCad")(uri "${KIPRJMOD}/components/0525592052.kicad_sym")(options "")(descr ""))
+  (lib (name "Conn_10p")(type "KiCad")(uri "${KIPRJMOD}/components/DF11-10DP-2DSA_24_.kicad_sym")(options "")(descr ""))
+)

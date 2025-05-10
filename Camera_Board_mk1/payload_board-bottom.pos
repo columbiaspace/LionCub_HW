@@ -1,0 +1,50 @@
+### Footprint positions - created on 2025-05-05T21:47:41-0400 ###
+### Printed by KiCad version 9.0.0
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val       Package                 PosX       PosY       Rot  Side
+C1        4.7uF     C_0201_0603Metric   197.7950   -92.5750  180.0000  bottom
+C2        100nF     C_0201_0603Metric   195.8000   -91.3450  -90.0000  bottom
+C3        100nF     C_0201_0603Metric   197.3750   -90.5700  -90.0000  bottom
+C4        100nF     C_0201_0603Metric   196.6000   -89.7700  -90.0000  bottom
+C5        10uF      C_0201_0603Metric   195.4050   -94.1500  180.0000  bottom
+C6        4.7uF     C_0201_0603Metric   194.6050   -95.8000  180.0000  bottom
+C8        0.22uF    C_0201_0603Metric   196.2050   -95.8000    0.0000  bottom
+C9        4.7uF     C_0201_0603Metric   196.2050   -96.6000    0.0000  bottom
+C11       0.22uF    C_0201_0603Metric   200.2000   -95.8250    0.0000  bottom
+C12       4.7uF     C_0201_0603Metric   200.2050   -96.6000    0.0000  bottom
+C13       0.22uF    C_0201_0603Metric   197.4000   -95.4200  -90.0000  bottom
+C14       0.22uF    C_0201_0603Metric   198.6000   -95.8000  180.0000  bottom
+C15       4.7uF     C_0201_0603Metric   198.5800   -96.6000  180.0000  bottom
+C16       0.22uF    C_0201_0603Metric   196.6250   -94.6450   90.0000  bottom
+C17       0.22uF    C_0201_0603Metric   194.6050   -97.3500  180.0000  bottom
+C18       4.7uF     C_0201_0603Metric   194.6050   -96.6500  180.0000  bottom
+C21       0.22uF    C_0201_0603Metric   195.4450   -89.3750  180.0000  bottom
+C22       0.22uF    C_0201_0603Metric   194.6000   -91.0000    0.0000  bottom
+C23       0.22uF    C_0201_0603Metric   194.6050   -91.8000    0.0000  bottom
+C24       0.22uF    C_0201_0603Metric   192.6000   -92.2050   90.0000  bottom
+C25       33uF      C_0201_0603Metric   189.5750   -92.8000   90.0000  bottom
+C26       0.22uF    C_0201_0603Metric   195.4800   -90.2750  180.0000  bottom
+C27       0.22uF    C_0201_0603Metric   197.0050   -91.7750  180.0000  bottom
+C28       4.7uF     C_0201_0603Metric   199.0250   -92.2200   90.0000  bottom
+C29       0.22uF    C_0201_0603Metric   191.0500   -94.5450  -90.0000  bottom
+C30       22uF      C_0201_0603Metric   195.4500   -88.6000  180.0000  bottom
+C31       0.22uF    C_0201_0603Metric   191.8000   -94.5200  -90.0000  bottom
+C33       0.22uF    C_0201_0603Metric   191.8000   -93.0800   90.0000  bottom
+C35       4.7uF     C_0201_0603Metric   192.6000   -93.8200  -90.0000  bottom
+C36       22uF      C_0201_0603Metric   191.0500   -93.0950   90.0000  bottom
+C37       4.7uF     C_0201_0603Metric   193.9050   -88.6000    0.0000  bottom
+C38       100nF     C_0201_0603Metric   193.9050   -89.4500    0.0000  bottom
+C39       100nF     C_0201_0603Metric   193.9050   -90.2000    0.0000  bottom
+C40       DNP       C_0201_0603Metric   195.4000   -87.0000    0.0000  bottom
+C41       4.7uF     C_0201_0603Metric   194.1750   -93.0050  -90.0000  bottom
+C42       4.7uF     C_0201_0603Metric   193.4500   -93.7950  -90.0000  bottom
+C43       100nF     C_0201_0603Metric   195.0000   -93.0200  -90.0000  bottom
+C44       100nF     C_0201_0603Metric   193.4500   -92.1800   90.0000  bottom
+C52       0.1uF     C_0201_0603Metric   195.7750   -93.0200   90.0000  bottom
+L1        4.7uH     L_0201_0603Metric   189.5750   -94.2700   90.0000  bottom
+R23       4.7k      R_0201_0603Metric   200.6000   -90.5400  -90.0000  bottom
+R24       4.7k      R_0201_0603Metric   198.6050   -89.4000    0.0000  bottom
+R39       30k       R_0201_0603Metric   191.3900   -91.8000  180.0000  bottom
+R44       10k       R_0201_0603Metric   182.1750   -97.5250  -90.0000  bottom
+## End

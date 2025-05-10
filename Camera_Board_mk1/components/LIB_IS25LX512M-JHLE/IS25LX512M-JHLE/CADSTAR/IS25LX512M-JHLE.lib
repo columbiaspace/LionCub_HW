@@ -1,0 +1,19 @@
+.IS25LX512M-JHLE :1 ;NOR Flash 512Mb, Octal Flash, 3V, 240ball TFBGA, RoHS, IT
+BGA24C100P5X5_600X800X120
+*STM IC
+*NGS
+*PNM 1=A2 2=A3 3=A4 4=A5 5=B1 6=B2 7=B3 8=B4 9=B5 10=C1 11=C2 12=C3 13=C4 14=C5 15=D1 16=D2 17=D3 18=D4 19=D5 20=E1 21=E2 22=E3 23=E4 24=E5
+*PLB 1="NC_1" 2="NC_2" 3="RESET#/NC" 4="NC_3" 5="NC_4" 6="SCK" 7="GND" 8="VCC" 9="NC_5" 10="NC_6" 11="CE#" 12="NC_7" 13="WP#(IO2)" 14="NC_8" 15="NC_9" 16="SO(IO1)" 17="SI(IO0)" 18="HOLD# OR RESET# (IO3)" 19="NC_10" 20="NC_11" 21="NC_12" 22="NC_13" 23="NC_14" 24="NC_15"
+*MXP 24
+*DFN IS25LX512M-JHLE
+~!Manufacturer_Name (Integrated Silicon Solution Inc.)
+~!Manufacturer_Part_Number (IS25LX512M-JHLE)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.mouser.com/pdfDocs/Octal-Memory.pdf)
+~!Height (1.2mm)
+~!3D_Model (IS25LX512M-JHLE)
+IS25LX512M-JHLE
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 

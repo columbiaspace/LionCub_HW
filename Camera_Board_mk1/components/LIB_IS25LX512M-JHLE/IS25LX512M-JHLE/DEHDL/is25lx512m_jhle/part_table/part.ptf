@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'IS25LX512M_JHLE'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Integrated Silicon Solution Inc.", "IS25LX512M-JHLE" (!) = "", "BGA24C100P5X5_600X800X120", "BGA", "", "", "", "", "NOR Flash 512Mb, Octal Flash, 3V, 240ball TFBGA, RoHS, IT", "https://www.mouser.com/pdfDocs/Octal-Memory.pdf", "1.2 mm"
+END_PART
+
+END.

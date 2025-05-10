@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/components/footprints.pretty")(options "")(descr ""))
+  (lib (name "Flash_test")(type "KiCad")(uri "${KIPRJMOD}/components/LIB_IS25LX512M-JHLE/IS25LX512M-JHLE/KiCad")(options "")(descr ""))
+  (lib (name "oresat_imports")(type "KiCad")(uri "${KIPRJMOD}/components/oresat_imports")(options "")(descr ""))
+)

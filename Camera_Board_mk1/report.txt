@@ -1,0 +1,282 @@
+Info: Processing symbol 'C1:'.
+Info: Processing symbol 'J1:CON_525592070_MOL'.
+Info: Processing symbol 'J2:MOLEX_2171790001'.
+Info: Processing symbol 'IC1:BGA196C80P14X14_1200X1200X152'.
+Connected IC1 pin A10 to unconnected-(IC1-GPIO_B0_11-PadA10).
+Connected IC1 pin K2 to unconnected-(IC1-VSS_13-PadK2).
+Connected IC1 pin D11 to unconnected-(IC1-GPIO_B1_03-PadD11).
+Connected IC1 pin M10 to unconnected-(IC1-VDD_SNVS_CAP-PadM10).
+Connected IC1 pin K1 to unconnected-(IC1-GPIO_SD_B0_03-PadK1).
+Connected IC1 pin L11 to unconnected-(IC1-GPIO_AD_B1_02-PadL11).
+Connected IC1 pin B14 to unconnected-(IC1-GPIO_B1_15-PadB14).
+Connected IC1 pin F11 to unconnected-(IC1-GPIO_AD_B0_04-PadF11).
+Connected IC1 pin J14 to IS_DATA1.
+Connected IC1 pin K11 to unconnected-(IC1-GPIO_AD_B1_01-PadK11).
+Connected IC1 pin E8 to unconnected-(IC1-GPIO_B0_02-PadE8).
+Connected IC1 pin E2 to unconnected-(IC1-VSS_5-PadE2).
+Connected IC1 pin L9 to unconnected-(IC1-VSS_15-PadL9).
+Connected IC1 pin H2 to unconnected-(IC1-GPIO_SD_B0_04-PadH2).
+Connected IC1 pin K9 to unconnected-(IC1-NGND_KEL0-PadK9).
+Connected IC1 pin L7 to unconnected-(IC1-PMIC_STBY_REQ-PadL7).
+Connected IC1 pin F14 to unconnected-(IC1-GPIO_AD_B0_09-PadF14).
+Added J1 (footprint 'CON_525592070_MOL').
+Connected IC1 pin A3 to unconnected-(IC1-GPIO_EMC_20-PadA3).
+Connected IC1 pin P7 to unconnected-(IC1-USB_OTG2_DP-PadP7).
+Connected IC1 pin B6 to unconnected-(IC1-GPIO_EMC_14-PadB6).
+Connected IC1 pin F9 to unconnected-(IC1-VDD_SOC_IN_4-PadF9).
+Connected IC1 pin G13 to unconnected-(IC1-GPIO_AD_B0_10-PadG13).
+Connected IC1 pin F10 to unconnected-(IC1-NVCC_GPIO_2-PadF10).
+Connected IC1 pin P1 to unconnected-(IC1-VSS_18-PadP1).
+Connected IC1 pin P10 to unconnected-(IC1-NVCC_PLL-PadP10).
+Connected IC1 pin J12 to IS_DATA4.
+Connected IC1 pin J5 to unconnected-(IC1-DCDC_SENSE-PadJ5).
+Connected IC1 pin J8 to unconnected-(IC1-VSS_12-PadJ8).
+Connected IC1 pin G6 to unconnected-(IC1-VDD_SOC_IN_5-PadG6).
+Connected IC1 pin H12 to IS_DATA6.
+Connected IC1 pin A12 to unconnected-(IC1-GPIO_B1_08-PadA12).
+Connected IC1 pin H6 to unconnected-(IC1-VDD_SOC_IN_7-PadH6).
+Connected IC1 pin D13 to unconnected-(IC1-GPIO_B1_12-PadD13).
+Connected IC1 pin D3 to unconnected-(IC1-GPIO_EMC_24-PadD3).
+Connected IC1 pin B4 to unconnected-(IC1-GPIO_EMC_19-PadB4).
+Connected IC1 pin B5 to unconnected-(IC1-VSS_3-PadB5).
+Connected IC1 pin N1 to unconnected-(IC1-DCDC_GND_1-PadN1).
+Connected IC1 pin H9 to unconnected-(IC1-VDD_SOC_IN_8-PadH9).
+Connected IC1 pin M12 to unconnected-(IC1-GPIO_AD_B1_03-PadM12).
+Connected IC1 pin B13 to unconnected-(IC1-GPIO_B1_10-PadB13).
+Connected IC1 pin D4 to unconnected-(IC1-GPIO_EMC_34-PadD4).
+Connected IC1 pin G8 to unconnected-(IC1-VSS_8-PadG8).
+Connected IC1 pin H4 to unconnected-(IC1-GPIO_EMC_07-PadH4).
+Connected IC1 pin E11 to unconnected-(IC1-GPIO_B0_15-PadE11).
+Connected IC1 pin C14 to unconnected-(IC1-GPIO_B1_14-PadC14).
+Connected IC1 pin B1 to unconnected-(IC1-GPIO_EMC_15-PadB1).
+Connected IC1 pin F2 to unconnected-(IC1-GPIO_EMC_04-PadF2).
+Connected IC1 pin J1 to unconnected-(IC1-GPIO_SD_B0_02-PadJ1).
+Connected IC1 pin A5 to unconnected-(IC1-GPIO_EMC_16-PadA5).
+Connected IC1 pin G3 to unconnected-(IC1-GPIO_EMC_11-PadG3).
+Connected IC1 pin H3 to unconnected-(IC1-GPIO_EMC_08-PadH3).
+Connected IC1 pin C9 to unconnected-(IC1-GPIO_B0_09-PadC9).
+Connected IC1 pin M5 to unconnected-(IC1-GPIO_SD_B1_01-PadM5).
+Connected IC1 pin D5 to unconnected-(IC1-GPIO_EMC_32-PadD5).
+Connected IC1 pin D8 to unconnected-(IC1-GPIO_B0_03-PadD8).
+Connected IC1 pin N3 to unconnected-(IC1-GPIO_SD_B1_05-PadN3).
+Connected IC1 pin K6 to unconnected-(IC1-TEST_MODE-PadK6).
+Connected IC1 pin M8 to unconnected-(IC1-USB_OTG1_DN-PadM8).
+Connected IC1 pin E7 to unconnected-(IC1-GPIO_B0_01-PadE7).
+Connected IC1 pin G9 to unconnected-(IC1-VDD_SOC_IN_6-PadG9).
+Connected IC1 pin L10 to unconnected-(IC1-GPIO_AD_B0_15-PadL10).
+Connected IC1 pin E10 to unconnected-(IC1-GPIO_B0_14-PadE10).
+Connected IC1 pin H5 to unconnected-(IC1-GPIO_EMC_06-PadH5).
+Connected IC1 pin G2 to unconnected-(IC1-GPIO_EMC_23-PadG2).
+Connected IC1 pin G10 to unconnected-(IC1-GPIO_AD_B0_11-PadG10).
+Connected IC1 pin D14 to unconnected-(IC1-GPIO_B1_13-PadD14).
+Add net unconnected-(J2-SHIELD4-PadSH4).
+Add net unconnected-(J2-CC2-PadB5).
+Connected J2 pin A6 to unconnected-(J2-DP1-PadA6).
+Add net unconnected-(J2-DP1-PadA6).
+Connected J2 pin B1A12 to unconnected-(J2-GND2-PadB1A12).
+Add net unconnected-(J2-GND2-PadB1A12).
+Connected J2 pin A7 to unconnected-(J2-DN1-PadA7).
+Add net unconnected-(J2-DN1-PadA7).
+Connected J2 pin SH4 to unconnected-(J2-SHIELD4-PadSH4).
+Connected J2 pin B5 to unconnected-(J2-CC2-PadB5).
+Connected J2 pin B8 to unconnected-(J2-SBU2-PadB8).
+Add net unconnected-(J2-SBU2-PadB8).
+Connected J2 pin A1B12 to unconnected-(J2-GND1-PadA1B12).
+Add net unconnected-(J2-GND1-PadA1B12).
+Connected J2 pin A8 to unconnected-(J2-SBU1-PadA8).
+Add net unconnected-(J2-SBU1-PadA8).
+Updated J2 sheetfile to 'usb_power.kicad_sch'.
+Connected J2 pin B4A9 to unconnected-(J2-VBUS2-PadB4A9).
+Connected J2 pin B7 to unconnected-(J2-DN2-PadB7).
+Add net unconnected-(J2-DN2-PadB7).
+Connected J2 pin A4B9 to unconnected-(J2-VBUS1-PadA4B9).
+Add net unconnected-(J2-VBUS1-PadA4B9).
+Connected J2 pin A5 to unconnected-(J2-CC1-PadA5).
+Add net unconnected-(J2-CC1-PadA5).
+Connected J2 pin B6 to unconnected-(J2-DP2-PadB6).
+Add net unconnected-(J2-DP2-PadB6).
+Updated J2 sheetname to 'USB External Power'.
+Add net unconnected-(J2-VBUS2-PadB4A9).
+Connected J2 pin SH3 to unconnected-(J2-SHIELD3-PadSH3).
+Add net unconnected-(J2-SHIELD3-PadSH3).
+Connected J2 pin SH1 to unconnected-(J2-SHIELD1-PadSH1).
+Add net unconnected-(J2-SHIELD1-PadSH1).
+Connected J2 pin SH2 to unconnected-(J2-SHIELD2-PadSH2).
+Add net unconnected-(J2-SHIELD2-PadSH2).
+Connected J1 pin 7 to LDO_EN.
+Connected J1 pin 4 to I2C_SCL.
+Connected J1 pin 14 to IS_DATA2.
+Connected J1 pin 19 to GND.
+Connected J1 pin 1 to MCLK.
+Connected J1 pin 2 to GND.
+Connected J1 pin 8 to Net-(C1-Pad1).
+Connected J1 pin 18 to IS_DATA1.
+Connected J1 pin 6 to PWDN.
+Connected J1 pin 13 to IS_DATA5.
+Updated J1 footprint filters to 'CON_525592070_MOL'.
+Updated J1 sheetfile to 'camera.kicad_sch'.
+Updated J1 sheetname to 'Camera_connections'.
+Updated J1 fields.
+Updated J1 symbol association from  to /19163738-78a7-49a1-9ccf-ca00bee352cf/0eeec572-d7a0-4b5c-9282-4dc9941cf410.
+Changed J1 value from CON_525592070_MOL to 525592070.
+Changed REF** reference designator to J1.
+Connected IC1 pin K5 to unconnected-(IC1-NVCC_SD1-PadK5).
+Connected J1 pin 5 to XRS.
+Connected J1 pin 16 to IS_DATA3.
+Connected J1 pin 15 to IS_HSYNC.
+Connected J1 pin 17 to IS_VSYNC.
+Connected J1 pin 11 to IS_DATA0.
+Connected J1 pin 10 to IS_DATA6.
+Connected J1 pin 12 to IS_DATA7.
+Connected J1 pin 3 to I2C_SDA.
+Connected J1 pin 9 to IS_DATA4.
+Connected J1 pin 20 to IS_CLK.
+Added J2 (footprint 'MOLEX_2171790001').
+Changed REF** reference designator to J2.
+Changed J2 value from MOLEX_2171790001 to 2171790001.
+Updated J2 symbol association from  to /c9420d13-2143-48ae-919e-fe4c6a914155/7cb6f531-4c62-4f4e-9a58-cd4310507bf2.
+Updated J2 fields.
+Connected IC1 pin J2 to unconnected-(IC1-GPIO_SD_B0_05-PadJ2).
+Connected IC1 pin F8 to unconnected-(IC1-VDD_SOC_IN_3-PadF8).
+Connected IC1 pin G4 to unconnected-(IC1-GPIO_EMC_03-PadG4).
+Connected IC1 pin C11 to unconnected-(IC1-GPIO_B1_02-PadC11).
+Connected IC1 pin B9 to unconnected-(IC1-GPIO_B0_08-PadB9).
+Connected IC1 pin G1 to unconnected-(IC1-GPIO_EMC_10-PadG1).
+Connected IC1 pin N10 to unconnected-(IC1-GPANAIO-PadN10).
+Connected IC1 pin F6 to unconnected-(IC1-VDD_SOC_IN_1-PadF6).
+Connected IC1 pin C6 to unconnected-(IC1-GPIO_EMC_30-PadC6).
+Connected IC1 pin M14 to unconnected-(IC1-GPIO_AD_B0_00-PadM14).
+Connected IC1 pin D7 to unconnected-(IC1-GPIO_B0_00-PadD7).
+Connected IC1 pin L1 to unconnected-(IC1-DCDC_IN_1-PadL1).
+Connected IC1 pin D6 to unconnected-(IC1-GPIO_EMC_38-PadD6).
+Connected IC1 pin H1 to unconnected-(IC1-GPIO_EMC_12-PadH1).
+Connected IC1 pin A14 to unconnected-(IC1-VSS_2-PadA14).
+Connected IC1 pin L4 to unconnected-(IC1-GPIO_SD_B1_07-PadL4).
+Connected IC1 pin E5 to unconnected-(IC1-GPIO_EMC_35-PadE5).
+Connected IC1 pin L3 to unconnected-(IC1-GPIO_SD_B1_06-PadL3).
+Connected IC1 pin J9 to unconnected-(IC1-VDD_SOC_IN_9-PadJ9).
+Connected IC1 pin D1 to unconnected-(IC1-GPIO_EMC_28-PadD1).
+Connected IC1 pin N6 to unconnected-(IC1-USB_OTG1_VBUS-PadN6).
+Connected IC1 pin G11 to unconnected-(IC1-GPIO_AD_B0_03-PadG11).
+Connected IC1 pin G14 to unconnected-(IC1-GPIO_AD_B0_05-PadG14).
+Connected IC1 pin E9 to unconnected-(IC1-NVCC_GPIO_1-PadE9).
+Connected IC1 pin N8 to unconnected-(IC1-VSS_17-PadN8).
+Connected IC1 pin L5 to unconnected-(IC1-GPIO_SD_B1_00-PadL5).
+Connected IC1 pin D2 to unconnected-(IC1-GPIO_EMC_25-PadD2).
+Connected IC1 pin E13 to unconnected-(IC1-VSS_6-PadE13).
+Connected IC1 pin M2 to unconnected-(IC1-DCDC_LP_2-PadM2).
+Connected IC1 pin G5 to unconnected-(IC1-GPIO_EMC_05-PadG5).
+Connected IC1 pin E14 to unconnected-(IC1-GPIO_AD_B0_06-PadE14).
+Connected IC1 pin P12 to unconnected-(IC1-VDD_HIGH_IN-PadP12).
+Connected IC1 pin C13 to unconnected-(IC1-GPIO_B1_11-PadC13).
+Connected IC1 pin K3 to unconnected-(IC1-DCDC_PSWITCH-PadK3).
+Connected IC1 pin B10 to unconnected-(IC1-VSS_4-PadB10).
+Connected IC1 pin H8 to unconnected-(IC1-VSS_10-PadH8).
+Connected IC1 pin M9 to unconnected-(IC1-VDD_SNVS_IN-PadM9).
+Connected IC1 pin K13 to unconnected-(IC1-VSS_14-PadK13).
+Connected IC1 pin L12 to I2C_SDA.
+Connected IC1 pin C1 to unconnected-(IC1-GPIO_EMC_21-PadC1).
+Connected IC1 pin N13 to unconnected-(IC1-CCM_CLK1_P-PadN13).
+Connected IC1 pin A8 to unconnected-(IC1-GPIO_B0_06-PadA8).
+Connected IC1 pin P4 to unconnected-(IC1-GPIO_SD_B1_10-PadP4).
+Connected IC1 pin N4 to unconnected-(IC1-GPIO_SD_B1_09-PadN4).
+Updated IC1 sheetfile to 'main_board.kicad_sch'.
+Updated IC1 sheetname to '1052'.
+Updated IC1 fields.
+Updated IC1 symbol association from  to /da7ba49c-3412-4550-983d-299a2a1d5655/b797cc65-dcf0-4c61-9484-b3d44e05e25c.
+Changed IC1 value from BGA196C80P14X14_1200X1200X152 to MIMXRT1052CVJ5B.
+Changed IC** reference designator to IC1.
+Added IC1 (footprint 'BGA196C80P14X14_1200X1200X152').
+Connected IC1 pin B8 to unconnected-(IC1-GPIO_B0_05-PadB8).
+Connected IC1 pin J4 to unconnected-(IC1-GPIO_SD_B0_00-PadJ4).
+Connected IC1 pin P9 to unconnected-(IC1-RTC_XTALO-PadP9).
+Connected IC1 pin D10 to unconnected-(IC1-GPIO_B0_13-PadD10).
+Connected IC1 pin C8 to unconnected-(IC1-GPIO_B0_04-PadC8).
+Connected IC1 pin N14 to unconnected-(IC1-VDDA_ADC_3P3-PadN14).
+Connected IC1 pin A11 to unconnected-(IC1-GPIO_B1_00-PadA11).
+Connected IC1 pin M6 to unconnected-(IC1-ONOFF-PadM6).
+Connected IC1 pin M4 to unconnected-(IC1-GPIO_SD_B1_03-PadM4).
+Connected IC1 pin K12 to I2C_SCL.
+Connected IC1 pin K4 to unconnected-(IC1-DCDC__IN_Q-PadK4).
+Connected IC1 pin M11 to MCLK.
+Connected IC1 pin B2 to unconnected-(IC1-GPIO_EMC_18-PadB2).
+Connected IC1 pin G12 to IS_DATA0.
+Connected IC1 pin L14 to IS_DATA3.
+Connected IC1 pin F12 to unconnected-(IC1-GPIO_AD_B0_07-PadF12).
+Connected IC1 pin F1 to unconnected-(IC1-GPIO_EMC_22-PadF1).
+Connected IC1 pin J3 to unconnected-(IC1-GPIO_SD_B0_01-PadJ3).
+Connected IC1 pin H7 to unconnected-(IC1-VSS_9-PadH7).
+Connected IC1 pin B11 to unconnected-(IC1-GPIO_B1_01-PadB11).
+Connected IC1 pin P13 to unconnected-(IC1-CCM_CLK1_N-PadP13).
+Connected IC1 pin F7 to unconnected-(IC1-VDD_SOC_IN_2-PadF7).
+Connected IC1 pin D12 to unconnected-(IC1-GPIO_B1_05-PadD12).
+Connected IC1 pin P11 to unconnected-(IC1-XTALI-PadP11).
+Connected IC1 pin C4 to unconnected-(IC1-GPIO_EMC_33-PadC4).
+Connected IC1 pin E6 to unconnected-(IC1-NVCC_EMC_1-PadE6).
+Connected IC1 pin A2 to unconnected-(IC1-GPIO_EMC_27-PadA2).
+Connected IC1 pin K14 to IS_VSYNC.
+Connected IC1 pin M7 to unconnected-(IC1-POR_B-PadM7).
+Connected IC1 pin N12 to unconnected-(IC1-USB_OTG1_CHD_B-PadN12).
+Connected IC1 pin N7 to unconnected-(IC1-USB_OTG2_DN-PadN7).
+Connected IC1 pin K10 to unconnected-(IC1-GPIO_AD_B1_07-PadK10).
+Connected IC1 pin C2 to unconnected-(IC1-GPIO_EMC_09-PadC2).
+Connected IC1 pin G7 to unconnected-(IC1-VSS_7-PadG7).
+Connected IC1 pin C12 to unconnected-(IC1-GPIO_B1_06-PadC12).
+Connected IC1 pin M13 to IS_DATA7.
+Connected IC1 pin H11 to unconnected-(IC1-GPIO_AD_B1_13-PadH11).
+Connected IC1 pin F4 to unconnected-(IC1-GPIO_EMC_02-PadF4).
+Connected IC1 pin J10 to unconnected-(IC1-NVCC_GPIO_3-PadJ10).
+Connected IC1 pin H13 to IS_HSYNC.
+Connected IC1 pin E3 to unconnected-(IC1-GPIO_EMC_00-PadE3).
+Connected IC1 pin J6 to unconnected-(IC1-NVCC_SD0-PadJ6).
+Connected IC1 pin P5 to unconnected-(IC1-GPIO_SD_B1_11-PadP5).
+Connected IC1 pin C10 to unconnected-(IC1-GPIO_B0_12-PadC10).
+Connected IC1 pin L13 to IS_DATA5.
+Connected IC1 pin H10 to unconnected-(IC1-GPIO_AD_B0_01-PadH10).
+Connected IC1 pin P14 to unconnected-(IC1-VSS_19-PadP14).
+Connected IC1 pin L2 to unconnected-(IC1-DCDC_IN_2-PadL2).
+Connected IC1 pin L6 to unconnected-(IC1-WAKEUP-PadL6).
+Connected IC1 pin L8 to unconnected-(IC1-USB_OTG1_DP-PadL8).
+Connected IC1 pin A13 to unconnected-(IC1-GPIO_B1_09-PadA13).
+Connected IC1 pin A4 to unconnected-(IC1-GPIO_EMC_17-PadA4).
+Connected IC1 pin C7 to unconnected-(IC1-GPIO_EMC_41-PadC7).
+Connected IC1 pin E1 to unconnected-(IC1-GPIO_EMC_29-PadE1).
+Connected IC1 pin B3 to unconnected-(IC1-GPIO_EMC_26-PadB3).
+Connected IC1 pin E4 to unconnected-(IC1-GPIO_EMC_37-PadE4).
+Connected IC1 pin E12 to unconnected-(IC1-GPIO_B1_04-PadE12).
+Connected IC1 pin C5 to unconnected-(IC1-GPIO_EMC_31-PadC5).
+Connected IC1 pin H14 to IS_CLK.
+Connected IC1 pin F5 to unconnected-(IC1-NVCC_EMC_2-PadF5).
+Connected IC1 pin M3 to unconnected-(IC1-GPIO_SD_B1_02-PadM3).
+Connected IC1 pin N9 to unconnected-(IC1-RTC_XTALI-PadN9).
+Connected IC1 pin A9 to unconnected-(IC1-GPIO_B0_07-PadA9).
+Connected IC1 pin N2 to unconnected-(IC1-DCDC_GND_2-PadN2).
+Connected IC1 pin A6 to unconnected-(IC1-GPIO_EMC_13-PadA6).
+Connected IC1 pin K7 to unconnected-(IC1-PMIC_ON_REQ-PadK7).
+Connected IC1 pin J11 to unconnected-(IC1-GPIO_AD_B1_00-PadJ11).
+Connected IC1 pin F3 to unconnected-(IC1-GPIO_EMC_01-PadF3).
+Connected IC1 pin N5 to unconnected-(IC1-VSS_16-PadN5).
+Connected IC1 pin B7 to unconnected-(IC1-GPIO_EMC_39-PadB7).
+Connected IC1 pin C3 to unconnected-(IC1-GPIO_EMC_36-PadC3).
+Connected IC1 pin B12 to unconnected-(IC1-GPIO_B1_07-PadB12).
+Connected IC1 pin N11 to unconnected-(IC1-XTALO-PadN11).
+Connected IC1 pin P8 to unconnected-(IC1-VDD_HIGH_CAP-PadP8).
+Connected IC1 pin J13 to IS_DATA2.
+Connected IC1 pin A1 to unconnected-(IC1-VSS_1-PadA1).
+Connected IC1 pin J7 to unconnected-(IC1-VSS_11-PadJ7).
+Connected IC1 pin D9 to unconnected-(IC1-GPIO_B0_10-PadD9).
+Connected IC1 pin K8 to unconnected-(IC1-VDD_USB_CAP-PadK8).
+Connected IC1 pin M1 to unconnected-(IC1-DCDC_LP_1-PadM1).
+Connected IC1 pin P2 to unconnected-(IC1-GPIO_SD_B1_04-PadP2).
+Connected IC1 pin A7 to unconnected-(IC1-GPIO_EMC_40-PadA7).
+Connected IC1 pin P3 to unconnected-(IC1-GPIO_SD_B1_08-PadP3).
+Connected IC1 pin P6 to unconnected-(IC1-USB_OTG2_VBUS-PadP6).
+Connected IC1 pin F13 to unconnected-(IC1-GPIO_AD_B0_08-PadF13).
+Warning: No net found for component J1 pad P1 (no pin P1 in symbol).
+Warning: No net found for component J1 pad P2 (no pin P2 in symbol).
+Warning: No net found for component J1 pad P4 (no pin P4 in symbol).
+Warning: No net found for component J1 pad P3 (no pin P3 in symbol).
+Error: Cannot add C1 (no footprint assigned).
+
+
+Info: Total warnings: 4, errors: 1.
