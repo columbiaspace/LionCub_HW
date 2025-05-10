@@ -39,7 +39,11 @@
         "pads": {
           "drill": 0.0,
           "height": 1.8,
+<<<<<<< Updated upstream
           "width": 1.5
+=======
+          "width": 1.6
+>>>>>>> Stashed changes
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,

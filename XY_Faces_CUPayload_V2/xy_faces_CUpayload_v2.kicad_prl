@@ -1,7 +1,12 @@
 {
   "board": {
+<<<<<<< Updated upstream
     "active_layer": 0,
     "active_layer_preset": "All Layers",
+=======
+    "active_layer": 2,
+    "active_layer_preset": "",
+>>>>>>> Stashed changes
     "auto_track_width": false,
     "hidden_netclasses": [],
     "hidden_nets": [],
@@ -49,7 +54,7 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_ffffffff_ffffff7d",
+    "visible_layers": "ffffffff_ffffffff_ffffffff_ffffff7f",
     "zone_display_mode": 0
   },
   "git": {
@@ -91,18 +96,18 @@
       11
     ],
     "col_widths": [
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      62
+      186,
+      171,
+      112,
+      79,
+      112,
+      112,
+      112,
+      83,
+      112,
+      112,
+      112,
+      112
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
